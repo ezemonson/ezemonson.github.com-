@@ -1,0 +1,170 @@
+body { 
+   margin: 0px;
+   padding: 0px;
+   background: #E5E5E5;
+ }
+  .container{
+    margin-top:0%;
+    margin-bottom:0%;
+    margin-left:14%;
+    margin-right:7%;
+    width: 1440px;
+    height: 1024px;
+    top: 622px;
+    left:-2277px;
+
+    padding: 5px;
+    background: #F3F5FC;
+   }
+   .logo{
+    
+    width: 960;
+    float; left;
+    background: #F3F5FC;
+   }
+   .left {
+    float: left;
+    width: 70%;
+    height: 70%;
+    border-radius: 24px;
+    background: #F3F5FC;
+   }
+   .right {
+    float: right;
+    width: 400px;
+    bottom:40px
+    top:40px;
+    margin-right:30px;
+    left:1000px;
+    height: 900px;
+    border-radius: 24px;
+    background:white;
+   }
+   .left-button {
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background: #F3F5FC;
+
+   }
+   .logoImg {
+   margin-top: 2%;
+   margin-left:5%; 
+   float: inherit;
+   margin-bottom:2%
+   }
+   .tittle {
+   float: right;
+   right:300%;
+   top:3%;
+   bottom:5%;
+   }
+   .text-input {
+   float: left;
+   margin-left: 10%;
+   margin-top: 10%;
+   width: 80%;
+   height: 60%;
+   color:#0A3871;
+   font-size:32px;
+   border:none;
+   outline:none;
+   background: #F3F5FC;
+   }
+   #imgDer {
+   margin-left: 2%;
+   margin-top:20%;
+   width:90%;
+   height: auto;
+   }
+   #texto {
+   float:inherit;
+   font-size:30px;
+   outline: none;
+   margin-left: 18%;
+   margin-right: 5%;
+   }
+   #texto2 { 
+   float: inherit;
+   top:40px;
+   bottom:40px;
+   left:1000px;
+   right:40px;
+   resize: none;
+   color: #0A3871;
+   width: 80%;
+   height: 10%;
+   border:none;
+   outline: none;
+   font-size:15px;
+   }
+
+   #advertencia {
+   float: left;
+   margin-top: 40%;
+   margin-left:120px; 
+   float: inherit;
+   margin-bottom:2%;
+   }
+
+   #texto3 {
+   float: right; 
+   font-size:15px;
+   line-height:18px;
+   width:205px;
+   margin-right: 550px;
+   opacity:80%;
+   }
+
+   #btn-encriptar {
+    padding: 24px;
+    width: 328px;
+    height: 67px;
+    color:white;
+    border-width: 1px;
+    top:885px;
+    bottom:72px;
+    left:240px;
+    right: 872px; 
+    font-size: 15px;
+    border-color: #0A3871;
+    border-radius: 24px;
+    margin-left: 240px;
+    background: #0A3871;
+
+
+   }
+   #btn-desencriptar {
+    padding: 24px;
+    width: 328px;
+    height:67px;
+    color:#0A3871;
+    border-width: 1px;
+    top: 885px;
+    bottom:72px;
+    left:592px;
+    right: 520px;
+    font-size: 15px;
+    border-bottom-color: #0A3871;
+    border-top-color: #0A3871;
+    border-color: #0A3871;
+    border-radius: 24px;
+    background: #D8DFE8;
+
+   }
+   #copiar {
+   margin-left: 10%;
+   margin-top: 189%;
+   padding: 24px;
+   width: 328px;
+   height: 67px;
+   background:#FFFFFF;
+   color:#0A3871;
+   font-size: 15px;
+   border-color: #0A3871;
+   border-radius: 24px;
+   display: none;
+
+   
+   }
